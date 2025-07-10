@@ -1,4 +1,4 @@
-app-name = COSMIC Store
+app-name = Крама COSMIC
 back = Назад
 cancel = Скасаваць
 check-for-updates = Праверыць абнаўленні
@@ -34,6 +34,7 @@ game = Гульні
 relax = Адпачынак
 socialize = Сацыяльныя
 utilities = Утыліты
+applets = Міні-праграмы
 installed-apps = Усталяваныя праграмы
 updates = Абнаўленні
 
